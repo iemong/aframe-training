@@ -6,5 +6,10 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="aframe" level="application" />
+    <orderEntry type="library" name="aframe-physics-system" level="application" />
+    <orderEntry type="library" name="aframe-particle-system-component" level="application" />
+    <orderEntry type="library" name="aframe-animation-component" level="application" />
+    <orderEntry type="library" name="aframe-extras.ocean" level="application" />
+    <orderEntry type="library" name="aframe-gradient-sky" level="application" />
   </component>
 </module>
